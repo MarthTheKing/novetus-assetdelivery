@@ -16,9 +16,9 @@ Any questions related to the repo or the guidelines shoudl be put in the Issues 
 	- scripts: .lua files
 	- models: .rbxm/.lua files that store models, which can be anything from tools to bricks to buildings.
 	- sky: .png files of skyboxes.
-	- sounds/music: .mp3 and .wav files of various sounds.
+	- sounds/music: .mp3 and .wav files of various sounds. sounds and music are seperate folders.
 	- textures: .png files of various textures. Any clothing assets must be inserted in this folder.
-	- assets: assets with no file type, but contain the ID of the asset in question.
+	- assets: assets with no file type.
 	
 - Assets must fall under the Novetus Discord server rules and guidelines, which includes the following points (slightly altered for relevance to this repo). All PRs will be verified to make sure they adhere to these guidelines:
 	- Discrimination of people because of their race, gender, disability, sexuality, fandom, or heritage is heavily prohibited. Slurs commonly used to attack certain types of people are not allowed.
